@@ -1,0 +1,6 @@
+#ifdef LANGUAGE_01
+#include "auebtriliza.l01"
+#endif
+#ifdef LANGUAGE_54
+#include "auebtriliza.l54"
+#endif
